@@ -13,7 +13,7 @@ class Job {
     }
 }
 
-public class Job_Sequencing_Problem {
+public class Job_Sequencing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
