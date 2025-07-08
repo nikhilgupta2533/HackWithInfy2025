@@ -7,11 +7,7 @@ This repository contains solutions to Data Structures and Algorithms problems im
 ## 📄 Problem List
 
 | S.No | Problem Name         | Code File                             |
-|------|----------------------|----------------------------------------|
-| 1    | Activity Selection   | [Greedy_Approach.Activity_Selection.java](Activity_Selection.java) |
-| 2    | Fractional Knapsack  | [Greedy_Approach.Fractional_Knapsack.java](Fractional_Knapsack.java) |
-| S.No | Problem Name        | Code Link                                            |
-|------|---------------------|------------------------------------------------------|
+|------|----------------------|----------------------------------------|     
 | 1    | Activity Selection  | [Activity_Selection.java](./Activity_Selection.java) |
 | 2    | Fractional Knapsack | [Fractional_Knapsack.java](./Fractional_Knapsack.java) |
 | 3    | Array Partition     | [Array_Partition.java](./Array_Partition.java)       |
