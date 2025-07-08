@@ -21,7 +21,7 @@ This repository contains solutions to Data Structures and Algorithms problems im
 
 ---
 ---
-# 📄 Problem List using Dynamic Programming
+## 📄 Problem List using Dynamic Programming
 
 | S.No | Problem Name        | Code File                            |
 |------|---------------------|--------------------------------------|     
