@@ -4,7 +4,7 @@ This repository contains solutions to Data Structures and Algorithms problems im
 
 ---
 
-## 📄 Problem List
+## 📄 Problem List using Greedy Approach
 
 | S.No | Problem Name         | Code File                             |
 |------|----------------------|----------------------------------------|     
@@ -20,4 +20,12 @@ This repository contains solutions to Data Structures and Algorithms problems im
 | 10   | Minimum Number of Arrows | [Minimum_Number_of_Arrows.java](./Minimum_Number_of_Arrows.java) |
 
 ---
+---
+# 📄 Problem List using Dynamic Programming
 
+| S.No | Problem Name        | Code File                            |
+|------|---------------------|--------------------------------------|     
+| 1    | Coin Change Problem | [CoinChange.java](./CoinChange.java) |
+
+
+---
