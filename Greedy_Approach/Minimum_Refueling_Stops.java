@@ -1,3 +1,5 @@
+package Greedy_Approach;
+
 import java.util.*;
 
 public class Minimum_Refueling_Stops {

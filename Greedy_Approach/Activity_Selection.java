@@ -1,3 +1,5 @@
+package Greedy_Approach;
+
 import java.util.*;
 public class Activity_Selection {
     public static void main(String[] args) {

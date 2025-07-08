@@ -1,4 +1,4 @@
-
+package Greedy_Approach;
 
 //Level :-easy 
 //Leetcode problem Link:-https://leetcode.com/problems/array-partition/description/

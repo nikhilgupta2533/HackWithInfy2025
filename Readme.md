@@ -1,11 +1,15 @@
-## 🧠 Java DSA Problems Repository
+# 🧠 Java DSA Problems Repository
 
-This repository contains solutions to **Data Structures and Algorithms** problems implemented in Java.
+This repository contains solutions to Data Structures and Algorithms problems implemented in Java.
 
 ---
 
-## 📁 Problem List
+## 📄 Problem List
 
+| S.No | Problem Name         | Code File                             |
+|------|----------------------|----------------------------------------|
+| 1    | Activity Selection   | [Greedy_Approach.Activity_Selection.java](Activity_Selection.java) |
+| 2    | Fractional Knapsack  | [Greedy_Approach.Fractional_Knapsack.java](Fractional_Knapsack.java) |
 | S.No | Problem Name        | Code Link                                            |
 |------|---------------------|------------------------------------------------------|
 | 1    | Activity Selection  | [Activity_Selection.java](./Activity_Selection.java) |
@@ -20,3 +24,4 @@ This repository contains solutions to **Data Structures and Algorithms** problem
 | 10   | Minimum Number of Arrows | [Minimum_Number_of_Arrows.java](./Minimum_Number_of_Arrows.java) |
 
 ---
+

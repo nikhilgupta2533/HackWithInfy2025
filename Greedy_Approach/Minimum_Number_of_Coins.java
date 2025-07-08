@@ -1,3 +1,4 @@
+package Greedy_Approach;
 
 import java.util.*;
 

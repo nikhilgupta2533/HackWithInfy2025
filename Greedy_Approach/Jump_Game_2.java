@@ -1,4 +1,4 @@
-
+package Greedy_Approach;
 
 //Level :-Medium 
 //Leetcode problem Link:-https://leetcode.com/problems/jump-game-ii/description/

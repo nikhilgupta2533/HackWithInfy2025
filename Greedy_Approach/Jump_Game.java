@@ -1,5 +1,6 @@
+package Greedy_Approach;
 
-//Level :-Medium 
+//Level :-Medium
 //Leetcode problem Link:- https://leetcode.com/problems/jump-game/description/
 public class Jump_Game {
 
