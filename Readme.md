@@ -24,9 +24,10 @@ This repository contains solutions to Data Structures and Algorithms problems im
 ---
 ## 📄 Problem List using Dynamic Programming
 
-| S.No | Problem Name        | Code File                                               |
-|------|---------------------|---------------------------------------------------------|     
-| 1    | Coin Change Problem | [CoinChange.java](./DynamicProgramming/CoinChange.java) |
+| S.No | Problem Name        | Code File                                                     |
+|------|---------------------|---------------------------------------------------------------|     
+| 1    | Coin Change Problem | [CoinChange.java](./DynamicProgramming/CoinChange.java)       |
+| 2    | Climbing Stair      | [ClimbingStair.java](./DynamicProgramming/ClimbingStair.java) |
 
 
 ---
